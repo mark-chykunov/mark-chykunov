@@ -15,4 +15,5 @@ I have experience in HTML, CSS, JavaScript, PHP, Python, C++.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mark-chikunov&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 # 📚 Learn
 I learn : JavaScript, PHP, HTML, CSS, Python, C++.
-I'm going to learn : 
+
+I'm going to learn : other technologies...
