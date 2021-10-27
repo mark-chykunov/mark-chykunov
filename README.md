@@ -1,9 +1,9 @@
 ![Header](https://github.com/mark-chikunov/mark-chikunov/blob/main/assets/welcome1.jpg)
 
-## Welcome
+## 🙋‍♂️ Welcome
 
-About me
+## 🖐️ About me
 
-GitHub Stats
+## 📈 GitHub Stats
 
-Learn
+## 📚 Learn
