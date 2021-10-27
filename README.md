@@ -2,8 +2,12 @@
 
 # 🙋‍♂️ Welcome
 
-## 🖐️ About me
+# 🖐️ About me
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
-## 📚 Learn
+# 📚 Learn
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mark-chikunov&show_icons=true)
