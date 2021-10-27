@@ -1,4 +1,4 @@
-[![Header](https://github.com/mark-chikunov/mark-chikunov/blob/main/assets/welcome1.jpg)]
+![Header](https://github.com/mark-chikunov/mark-chikunov/blob/main/assets/welcome1.jpg)
 
 Welcome
 
