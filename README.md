@@ -4,7 +4,7 @@
 🐱‍👤 I'm still new here, looking around and learning...
 
 🐱‍💻 I have experience in HTML, CSS, JavaScript, PHP, Python, C++.
-# ✨ Last project :
+# ✨ Last projects :
 ~ T-shirt store website : https://mark-chikunov.github.io/site/
 # 🖐️ About me
 ✌️ My name is Mark and I am 16 years old. I've been programming for about 2 years, trying different technologies. 
