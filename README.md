@@ -6,6 +6,10 @@
 🐱‍💻 I have experience in HTML, CSS, JavaScript, PHP, Python, C++.
 # ✨ Last projects :
 ~ T-shirt store website : https://mark-chikunov.github.io/site/
+# 🤙 Contact Information
+> Gmail : cloutodyday@gmail.com
+
+> Linkedln : https://www.linkedin.com/in/%D0%BC%D0%B0%D1%80%D0%BA-%D1%87%D0%B8%D0%BA%D1%83%D0%BD%D0%BE%D0%B2-45b893217/
 # 🖐️ About me
 ✌️ My name is Mark and I am 16 years old. I've been programming for about 2 years, trying different technologies. 
 
