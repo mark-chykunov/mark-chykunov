@@ -5,7 +5,7 @@
 
 🐱‍💻 I have experience in HTML, CSS, JavaScript, PHP, Python, C++.
 # ✨ Last projects :
-~ T-shirt store website : https://mark-chikunov.github.io/site/
+~ T-shirt store website : https://mark-chikunov.github.io/site-t-shirt-store/
 # 🤙 Contact Information
 > Gmail : cloutodyday@gmail.com
 
