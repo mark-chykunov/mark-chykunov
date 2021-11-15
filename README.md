@@ -11,7 +11,7 @@
 
 > Linkedln : https://www.linkedin.com/in/%D0%BC%D0%B0%D1%80%D0%BA-%D1%87%D0%B8%D0%BA%D1%83%D0%BD%D0%BE%D0%B2-45b893217/
 # 🖐️ About me
-✌️ My name is Mark and I am 16 years old. I've been programming for about 2 years, trying different technologies. 
+✌️ My name is Mark. I've been programming for about 2 years, trying different technologies. 
 
 🎓 I have the most experience in Front-end development.
 
