@@ -1,16 +1,14 @@
 ![Header](https://github.com/mark-chikunov/mark-chikunov/blob/main/assets/welcome1.jpg)
 
-# 🙋‍♂️ Welcome
-🐱‍👤 I'm still new here, looking around and learning...
-
-🐱‍💻 I have experience in HTML, CSS, JavaScript, PHP, Python, C++.
+# 🙋‍♂️ About me
+🐱‍💻 I have experience in HTML, CSS, JavaScript, C++.
 # ✨ Last projects :
 ~ T-shirt store website : https://mark-chikunov.github.io/site-t-shirt-store/
 # 🤙 Contact Information
 > Gmail : cloutodyday@gmail.com
 
 > Linkedln : https://www.linkedin.com/in/mark-chikunov-45b893217/
-# 🖐️ About me
+# 🖐️ About my road and my case
 ✌️ My name is Mark. I've been programming for about 2 years, trying different technologies. 
 
 🎓 I have the most experience in Front-end development.
