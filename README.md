@@ -21,10 +21,13 @@ I have work experience too :
 - basic knowledge 
     
 ~ ~ ~
+
 Я не маю попиту комерційної розробки але є попит розробки Front-end проектів. 
 Також в роботі використовував систему контролю версій Git за допомогою сервісу GitHub та такі технології як Docker та Sql. 
 Робив Unit тести в проектах, які є в моєму GitHub.
+
 ~ ~ ~    
+
 I have no demand for commercial development but there is a demand for the development of Front-end projects.
 He also used the Git version control system using the GitHub service and technologies such as Docker and Sql.
 I did Unit tests on projects that are in my GitHub.
