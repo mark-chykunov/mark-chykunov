@@ -1,7 +1,7 @@
 ![Header](https://github.com/mark-chikunov/mark-chikunov/blob/main/assets/welcome1.jpg)
 
 # 🙋‍♂️ I'm now
-About me
+# 🖐️ About me
     I have work experience : 
         - English level A2 - B1 (Intermediate)
         - HTML 5 , CSS 3
@@ -43,7 +43,5 @@ About me
 # 📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mark-chikunov&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mark-chikunov&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-# 📚 Learn
-I learn : JavaScript, PHP, HTML, CSS, Python, C++
-
-I'm going to learn : other technologies...
+# 📚 Studing vector
+    Fullstack with .NET 
