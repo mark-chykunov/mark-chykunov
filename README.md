@@ -2,23 +2,22 @@
 
 # 🙋‍♂️ I'm now
 # 🖐️ About me
-    I have work experience : 
-        - English level A2 - B1 (Intermediate)
-        - HTML 5 , CSS 3
-        - JavaScript
-        - React
-        - Git and GitHub , GitBush
-        - Docker
-        - Creating Unit tests in projects
-        - Using Linux and the Command Line
-        - basic knowledge Sql
-
-    I have work experience too :
-        - basic knowledge Photoshop 
-        - basic knowledge C++
-        - basic knowledge Python
-        - basic knowledge Figma 
-        - basic knowledge 
+I have work experience : 
+    - English level A2 - B1 (Intermediate)
+    - HTML 5 , CSS 3
+    - JavaScript
+    - React
+    - Git and GitHub , GitBush
+    - Docker
+    - Creating Unit tests in projects
+    - Using Linux and the Command Line
+    - basic knowledge Sql
+I have work experience too :
+    - basic knowledge Photoshop 
+    - basic knowledge C++
+    - basic knowledge Python
+    - basic knowledge Figma 
+    - basic knowledge 
     
     
     Я не маю попиту комерційної розробки але є попит розробки Front-end проектів. 
@@ -29,9 +28,9 @@
     He also used the Git version control system using the GitHub service and technologies such as Docker and Sql.
     I did Unit tests on projects that are in my GitHub.
 # ✨ Last projects :
-    ~ T-shirt store website : https://mark-chikunov.github.io/site-t-shirt-store/
+   ~ T-shirt store website : https://mark-chikunov.github.io/site-t-shirt-store/
 # 🤙 Contact Information
-    > Gmail : cloutodyday@gmail.com
+   > Gmail : cloutodyday@gmail.com
 
     > Linkedln : https://www.linkedin.com/in/mark-chikunov-45b893217/
 # 🖐️ About my road and my case
