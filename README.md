@@ -3,15 +3,15 @@
 # 🙋‍♂️ I'm now
 # 🖐️ About me
 I have work experience : 
-    - English level A2 - B1 (Intermediate)
-    - HTML 5 , CSS 3
-    - JavaScript
-    - React
-    - Git and GitHub , GitBush
-    - Docker
-    - Creating Unit tests in projects
-    - Using Linux and the Command Line
-    - basic knowledge Sql
+- English level A2 - B1 (Intermediate)
+- HTML 5 , CSS 3
+- JavaScript
+- React
+- Git and GitHub , GitBush
+- Docker
+- Creating Unit tests in projects
+- Using Linux and the Command Line
+- basic knowledge Sql
 I have work experience too :
     - basic knowledge Photoshop 
     - basic knowledge C++
