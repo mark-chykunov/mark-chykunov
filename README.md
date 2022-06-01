@@ -12,12 +12,13 @@ I have work experience :
 - Creating Unit tests in projects
 - Using Linux and the Command Line
 - basic knowledge Sql
+
 I have work experience too :
-    - basic knowledge Photoshop 
-    - basic knowledge C++
-    - basic knowledge Python
-    - basic knowledge Figma 
-    - basic knowledge 
+- basic knowledge Photoshop 
+- basic knowledge C++
+- basic knowledge Python
+- basic knowledge Figma 
+- basic knowledge 
     
     
     Я не маю попиту комерційної розробки але є попит розробки Front-end проектів. 
