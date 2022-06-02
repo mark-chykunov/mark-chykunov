@@ -31,7 +31,7 @@ I have work experience too :
 I have no experience in commercial development but have experience in developing Front-end projects.
 He also used the Git version control system, using the GitHub service, and technologies such as Docker and Sql.
 I did Unit tests on projects that are in my GitHub.
-# ✨ Last projects :
+# ✨ Last projects 
    ~ T-shirt store website : https://mark-chikunov.github.io/site-t-shirt-store/
 # 🤙 Contact Information
    > Gmail : cloutodyday@gmail.com
