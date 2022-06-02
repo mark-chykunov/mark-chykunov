@@ -7,7 +7,7 @@ I have work experience :
 - English level A2 - B1 (Intermediate)
 - HTML 5 , CSS 3
 - JavaScript
-- React
+- React , Redux
 - Git and GitHub , GitBush
 - Docker
 - Creating Unit tests in projects
