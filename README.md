@@ -19,7 +19,6 @@ I have work experience too :
 - basic knowledge C++
 - basic knowledge Python
 - basic knowledge Figma 
-- basic knowledge 
     
 ~ ~ ~
 
