@@ -37,10 +37,11 @@ I did Unit tests on projects that are in my GitHub.
    > Gmail : cloutodyday@gmail.com
 
    > Linkedln : https://www.linkedin.com/in/mark-chikunov-45b893217/
+# 📖 Read books with projects for them
+# 📚 Studying vector
+   Fullstack with .NET 
 # 🖐️ About my road and my case
 
 # 📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mark-chikunov&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mark-chikunov&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-# 📚 Studying vector
-   Fullstack with .NET 
