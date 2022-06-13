@@ -37,6 +37,8 @@ I did Unit tests on projects that are in my GitHub.
    > Gmail : cloutodyday@gmail.com
 
    > Linkedln : https://www.linkedin.com/in/mark-chikunov-45b893217/
+   
+   > CodeWars : https://www.codewars.com/users/mark-chikunov
 # 📖 Read books with projects for them
 # 📚 Studying vector
    Fullstack with .NET 
