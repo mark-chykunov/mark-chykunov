@@ -33,6 +33,7 @@ He also used the Git version control system, using the GitHub service, and techn
 I did Unit tests on projects that are in my GitHub.
 # ✨ Last projects 
    ~ T-shirt store website : https://mark-chikunov.github.io/site-t-shirt-store/
+   ~ JavaScript course from Sololearn , test website : https://mark-chikunov.github.io/sololearn-js-course-/
 # 🤙 Contact Information
    > Gmail : cloutodyday@gmail.com
 
