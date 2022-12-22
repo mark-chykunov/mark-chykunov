@@ -1,8 +1,7 @@
 ![Header](https://github.com/mark-chikunov/mark-chikunov/blob/main/assets/welcome1.jpg)
 
 # 🙋‍♂️ I'm now
-   free for work !
-   I'm working on portfolio projects...
+   free for work !                                                                                                                                                        I'm working on portfolio projects...
 # 🖐️ About me
 I have work experience : 
 - English level A2 - B1 (Intermediate)
