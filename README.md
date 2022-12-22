@@ -4,7 +4,7 @@
 free for work !                                                                                                                                                        I'm working on portfolio projects...
 # 🖐️ About me
 I have work experience : 
-- English level A2 - B1 (Intermediate)
+- English level A2 (Pre-Intermediate) , but I'm raising that level now by studying English nonstop.
 - HTML 5 , CSS 3
 - JavaScript
 - React , Redux
